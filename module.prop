@@ -1,7 +1,0 @@
-# id 只能填 字母 数字 半角符号
-id=EnableMIUIClearSpeaker
-name=解除MIUI设置中扬声器清理的限制
-version=1.0
-versionCode=1
-author=Xiaoze886
-description=解除MIUI对部分机型设置中扬声器清理的限制
